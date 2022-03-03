@@ -3,7 +3,7 @@ Final exam in the course Objektorientert Programmering 2100 [OBJ2100]
 
 The exam was to make a chat program in java using what we had learned in this course, such as thread programming and using sockets
 
-The program consists of a client(klient) and a server(tjener)
+The program consists of a client (klient) and a server (tjener)
 
 When the server runs it opens up a port for clients to connect to, but if i remeber correctly it should only work on LAN.
 When a device starts up the server, a javafx window opens up showing the all activity happening on the server in real time. That includes things like when someone connects, when they create a new room, when they send a message, when they leave a room. 
